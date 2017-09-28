@@ -93,16 +93,16 @@ disqus:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: 001bufanbin
-    repo: blog-comments
+    repo: KrisFocus
     oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+        client_id: 6fc51c498892500bd70a
+        client_secret: 971c29d59bdb095a0cf86c26fd005fb1fdea3b08
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
-    repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    owner: 001bufanbin
+    repo: KrisFocus
+    clientID: 6fc51c498892500bd70a
+    clientSecret: 971c29d59bdb095a0cf86c26fd005fb1fdea3b08
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
 
@@ -110,4 +110,4 @@ lazy_load_disqus : true
 #    Analytics     #
 # ---------------- #
 google:
-    analytics_id: UA-80669434-1
+    analytics_id: UA-107197661-1
