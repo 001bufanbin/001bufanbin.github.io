@@ -101,8 +101,8 @@ gitment:
 gitalk:
     owner: 001bufanbin
     repo: BlogComments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    clientID: 6fc51c498892500bd70a
+    clientSecret: 971c29d59bdb095a0cf86c26fd005fb1fdea3b08
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
