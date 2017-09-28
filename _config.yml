@@ -93,14 +93,14 @@ comments_provider: gitalk
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: 001bufanbin
-    repo: 001bufanbin.github.io
+    repo: KrisFocus
     oauth:
         client_id: 6fc51c498892500bd70a
         client_secret: 971c29d59bdb095a0cf86c26fd005fb1fdea3b08
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: 001bufanbin
-    repo: 001bufanbin.github.io
+    repo: KrisFocus
     clientID: 6fc51c498892500bd70a
     clientSecret: 971c29d59bdb095a0cf86c26fd005fb1fdea3b08
 # 在使用其它评论组件时可点击显示 Disqus
